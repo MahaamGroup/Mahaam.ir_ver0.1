@@ -1,0 +1,6 @@
+{
+  "name": "Mahaam International Group",
+  "description": "پایگاه رسمی گروه بین‌المللی مهام؛ اعزام هیأت‌های تجاری، تخصصی و توریستی، مشاوره و ساختارسازی حقوقی، مهاجرتی و سرمایه‌گذاری بین‌المللی با موتور تصمیم‌گیری تعاملی.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
